@@ -1,0 +1,27 @@
+body{
+    background-image: url(image)
+}
+
+h1{
+    color:blueviolet;
+    font-size: 100px;
+    text-decoration: underline;
+    text-align:center;
+}
+
+p{
+    color:red;
+}
+
+.mewway{
+    color:blue;
+}
+
+.zing{
+    color:chartreuse;
+    border: 2px solid red;
+    width: 100px;
+    padding: 300px;
+    background-color:aquamarine;
+    margin: 200px;
+}
